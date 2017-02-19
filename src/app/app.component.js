@@ -24,7 +24,7 @@ var AppComponent = (function () {
     AppComponent = __decorate([
         core_1.Component({
             selector: 'my-app',
-            template: "\n    <h1>Hello {{name}}</h1>\n    <ul>\n      <li *ngFor=\"let game of games\">{{game.appid}}</li>\n    </ul>\n",
+            template: "\n    <h1>Hello {{name}}</h1>\n    <ul>\n      <li *ngFor=\"let game of games\">\n        {{game.name}}\n        <img src=\"http://media.steampowered.com/steamcommunity/public/images/apps/{{game.appid}}/{{game.img_icon_url}}.jpg\" />\n        <img src=\"http://media.steampowered.com/steamcommunity/public/images/apps/{{game.appid}}/{{game.img_logo_url}}.jpg\" />\n      </li>\n    </ul>\n",
         }), 
         __metadata('design:paramtypes', [gameslist_service_1.GamesListService])
     ], AppComponent);

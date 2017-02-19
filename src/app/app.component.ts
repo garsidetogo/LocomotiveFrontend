@@ -8,7 +8,11 @@ import {Game} from "./entities/game.entity";
   template: `
     <h1>Hello {{name}}</h1>
     <ul>
-      <li *ngFor="let game of games">{{game.appid}}</li>
+      <li *ngFor="let game of games">
+        {{game.name}}
+        <img src="http://media.steampowered.com/steamcommunity/public/images/apps/{{game.appid}}/{{game.img_icon_url}}.jpg" />
+        <img src="http://media.steampowered.com/steamcommunity/public/images/apps/{{game.appid}}/{{game.img_logo_url}}.jpg" />
+      </li>
     </ul>
 `,
 })

@@ -29,9 +29,7 @@ export class GamesListService {
 
   private extractData(res: Response) {
     let body = res.json();
-    let games = body.response.games;
-    console.log(games || { });
-    //return body.data || { };
+
     return body.response.games || { };
   }
 

@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59dc0435-a9e6-40fb-8988-496f77df92a1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/entities/game.entity.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/services/gameslist.service.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.component.js" afterPath="$PROJECT_DIR$/src/app/app.component.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.component.js.map" afterPath="$PROJECT_DIR$/src/app/app.component.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.component.ts" afterPath="$PROJECT_DIR$/src/app/app.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.module.ts" afterPath="$PROJECT_DIR$/src/app/app.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/entities/game.entity.js.map" afterPath="$PROJECT_DIR$/src/app/entities/game.entity.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/entities/game.entity.ts" afterPath="$PROJECT_DIR$/src/app/entities/game.entity.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/services/gameslist.service.js" afterPath="$PROJECT_DIR$/src/app/services/gameslist.service.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/services/gameslist.service.js.map" afterPath="$PROJECT_DIR$/src/app/services/gameslist.service.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/services/gameslist.service.ts" afterPath="$PROJECT_DIR$/src/app/services/gameslist.service.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,10 +31,11 @@
         <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+              <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
-                <marker date="1487472642191" expanded="true" signature="243:310" ph="..." />
+                <marker date="1487473684579" expanded="true" signature="243:579" ph="..." />
+                <marker date="1487473684579" expanded="true" signature="281:569" ph="..." />
               </folding>
             </state>
           </provider>
@@ -49,8 +54,8 @@
       <file leaf-file-name="gameslist.service.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/services/gameslist.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="34" column="38" lean-forward="false" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+            <state relative-caret-position="209">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding>
                 <element signature="e#38#94#0" expanded="true" />
               </folding>
@@ -61,8 +66,8 @@
       <file leaf-file-name="game.entity.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/entities/game.entity.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="90">
+              <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="14" />
               <folding>
                 <element signature="n#!!doc;n#Game#0" expanded="false" />
               </folding>
@@ -86,8 +91,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/src/app/entities/game.entity.ts" />
         <option value="$PROJECT_DIR$/src/app/services/gameslist.service.ts" />
+        <option value="$PROJECT_DIR$/src/app/entities/game.entity.ts" />
         <option value="$PROJECT_DIR$/src/app/app.component.ts" />
       </list>
     </option>
@@ -291,12 +296,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1487399446737</updated>
-      <workItem from="1487399450398" duration="3435000" />
+      <workItem from="1487399450398" duration="4536000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3435000" />
+    <option name="totallyTimeSpent" value="4536000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="28" width="1922" height="915" extended-state="6" />
@@ -349,20 +354,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/app/services/gameslist.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="34" column="38" lean-forward="false" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+        <state relative-caret-position="209">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
             <element signature="e#38#94#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/entities/game.entity.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding>
-            <element signature="n#!!doc;n#Game#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -375,13 +370,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/entities/game.entity.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <element signature="n#!!doc;n#Game#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
           <folding>
             <element signature="e#0#48#0" expanded="true" />
-            <marker date="1487472642191" expanded="true" signature="243:310" ph="..." />
+            <marker date="1487473684579" expanded="true" signature="243:579" ph="..." />
+            <marker date="1487473684579" expanded="true" signature="281:569" ph="..." />
           </folding>
         </state>
       </provider>

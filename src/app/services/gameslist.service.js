@@ -31,9 +31,6 @@ var GamesListService = (function () {
     };
     GamesListService.prototype.extractData = function (res) {
         var body = res.json();
-        var games = body.response.games;
-        console.log(games || {});
-        //return body.data || { };
         return body.response.games || {};
     };
     GamesListService.prototype.handleError = function (error) {
